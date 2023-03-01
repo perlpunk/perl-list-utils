@@ -1,0 +1,12 @@
+^dev
+^cover_db
+^local
+^\.git
+^blib
+^List-Utils-
+^Makefile$
+^MANIFEST.bak
+MANIFEST.SKIP
+^MYMETA.json
+^MYMETA.yml
+^pm_to_blib
